@@ -138,7 +138,7 @@ function App() {
                 >
                   <h2>Master Story</h2>
                   <p>Mening Master Story loyiham</p>
-                </a>
+                </a>git add .
 
                 {/* Yangi qo‘shilgan POJOF loyihasi */}
                 <a
