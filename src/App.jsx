@@ -10,7 +10,7 @@ function App() {
   const [page, setPage] = useState("home");
 
   const handleLogin = () => {
-    if (login === "admin" && password === "12345") {
+    if (login === "gmail" && password === "0000") {
       setIsAuth(true);
       setError("");
     } else {
