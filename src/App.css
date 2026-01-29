@@ -196,3 +196,52 @@
   .topbar-right span { font-size: 14px; }
   .contint-box { padding: 15px; }
 }
+/* LOGIN */
+.login-page {
+  height: 100vh;
+  background: linear-gradient(135deg, #1f2937, #111827);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-box {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  width: 320px;
+  text-align: center;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+}
+
+.login-box button {
+  width: 100%;
+  padding: 10px;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.logout-btn {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
